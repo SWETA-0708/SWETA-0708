@@ -1,6 +1,7 @@
 - 👋 Hi, I’m SWETA SINGH
 - Currently pursuing my Bachelor's in Computer Application(BCA)
-- 💻 Proficient in various programming languages including [PYTHON,JAVA,C].
+- 💻 Proficient in various programming languages including [HTML,CSS,JS,FLASK,PYTHON,JAVA,C].
+- Expanding my knowledge towards react,mysql,wordpress.
 - 🤝 Collaborative mindset with experience in group projects and coding challenges.
 - 🌟 Proven ability to adapt and learn quickly, always seeking to stay on the cutting edge of technology.
 - 🌱 Exploring open-source contributions to learn, grow, and give back to the community.
